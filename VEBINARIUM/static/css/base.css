@@ -1,0 +1,22 @@
+body {
+    background: white;
+}
+
+.osn-text {
+    background: light gray;
+}
+
+.events {
+    margin-left: 60px;
+    margin-right: 60px;
+}
+
+.course {
+	height: 100px;
+	width: 200px;
+	background: red
+}
+
+.course {
+    font-size: 50px
+}
